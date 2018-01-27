@@ -21,9 +21,11 @@ My name is Anastasia Nalimova (yeah, like a fish), I’m 20 years old, I’m a S
 
 * Uhh handsome men and fast cars…?
 ![alt text](http://3.bp.blogspot.com/-CpX6CwQ4kxs/Tv3hdM5zkDI/AAAAAAAAFnw/fpFSBr6PnUY/s640/dprk.jpg)
+
+Now that I think about it, I probably should have made a table with artists that I like... So... Why not?
     
 
-| Tables        | Are           | Cool  |
+| Comedy        | Music          | Movies  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
