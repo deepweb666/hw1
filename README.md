@@ -28,5 +28,5 @@ Now that I think about it, I probably should have made a table with artists that
 | Comedy        | Music          | Movies  |
 | ------------- |:-------------:| -----:|
 | Tim and Eric      | Arcade Fire | Pulp Fiction |
-| Nathan for You     | DenDerty     |   Ghost World |
-| Eric Andre | Fall out Boy     |    Heathers |
+| Nathan for You     | DenDerty     | Ghost World |
+| Eric Andre | Fall out Boy     | Heathers |
