@@ -14,10 +14,10 @@ My name is Anastasia Nalimova (yeah, like a fish), I’m 20 years old, I’m a S
 
 `Unremarkable note #1: I watched Mighty Boosh for the first time when I was 11 `
 
-⋅⋅* Music
+⋅⋅*Music
 ![alt text](http://i0.kym-cdn.com/photos/images/original/000/982/228/d23.png)
 ![alt text](http://3m84r11gpx1j11puas2g5wfl.wpengine.netdna-cdn.com/wp-content/uploads/2017/03/macdemarco.jpg)
 
 
-⋅⋅* Uhh handsome men and fast cars…?
+⋅⋅*Uhh handsome men and fast cars…?
 ![alt text](http://3.bp.blogspot.com/-CpX6CwQ4kxs/Tv3hdM5zkDI/AAAAAAAAFnw/fpFSBr6PnUY/s640/dprk.jpg)
