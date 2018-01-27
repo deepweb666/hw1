@@ -27,6 +27,6 @@ Now that I think about it, I probably should have made a table with artists that
 
 | Comedy        | Music          | Movies  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tim and Eric      | Arcade Fire | Pulp Fiction |
+| Nathan for You     | DenDerty     |   Ghost World |
+| Eric Andre | Fall out Boy     |    Heathers |
