@@ -23,9 +23,8 @@ My name is Anastasia Nalimova (yeah, like a fish), I’m 20 years old, I’m a S
 ![alt text](http://3.bp.blogspot.com/-CpX6CwQ4kxs/Tv3hdM5zkDI/AAAAAAAAFnw/fpFSBr6PnUY/s640/dprk.jpg)
     
 
- MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY 
- --- | --- | --- | --- | --- | --- | --- | --- |
- Цифровая грамотность | Латынь |Практика Английского  |  Испанский    | Испанский   
- ЦГ лекция | Практика Английского | Практика Английского | Испанский  
- zebra stripes | Практика Английского | Видео |  | Фонетика | Лекция ВКБ      
-   |          | ВКБ |        |            |     
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
