@@ -21,10 +21,11 @@ My name is Anastasia Nalimova (yeah, like a fish), I’m 20 years old, I’m a S
 
 * Uhh handsome men and fast cars…?
 ![alt text](http://3.bp.blogspot.com/-CpX6CwQ4kxs/Tv3hdM5zkDI/AAAAAAAAFnw/fpFSBr6PnUY/s640/dprk.jpg)
+    
 
  MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY 
  --- | --- | --- | --- | --- | --- | --- | --- |
-10:30| Цифровая грамотность | Латынь |Практика Английского  |  Испанский    | Испанский   
-12:10| ЦГ лекция    | Практика Английского    |   Практика Английского | Испанский  
-13:40| zebra stripes | Практика Английского     |    Видео |    | Фонетика | Лекция ВКБ      
-15:10 |           |   ВКБ        |        |            |         
+ Цифровая грамотность | Латынь |Практика Английского  |  Испанский    | Испанский   
+ ЦГ лекция | Практика Английского | Практика Английского | Испанский  
+ zebra stripes | Практика Английского | Видео |  | Фонетика | Лекция ВКБ      
+   |          | ВКБ |        |            |     
